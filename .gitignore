@@ -1,0 +1,5 @@
+.git/
+__pycache__/
+
+start.py
+main2.py
